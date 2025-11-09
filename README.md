@@ -6,7 +6,6 @@ This is a solution to the [Interactive comments section challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -27,14 +26,10 @@ Users should be able to:
 - **Bonus**: Use `localStorage` to save the current state in the browser that persists when the browser is refreshed ✅
 - **Bonus**: Use timestamps and dynamically track the time since the comment or reply was posted ✅
 
-### Screenshot
-
-![Interactive Comments Section](./screenshot.png)
-
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/noob-coder6/interactive-comments-section.git)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Live Site URL: [Live Demo](https://noob-coder6.github.io/interactive-comments-section/)
 
 ## My process
 
